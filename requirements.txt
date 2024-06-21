@@ -1,0 +1,20 @@
+requests
+beautifulsoup4
+pandas
+matplotlib
+logging
+smtplib
+
+
+First, scrape the data by running main.py:
+Use:python main.py
+
+
+Process data by running process_data.py (if additional processing is needed):
+Use: python process_data.py
+
+Visualize the data by running visualize_data.py
+Use: python visualize_data.py
+
+Generate the mailing list by running generate_mailing_list.py
+Use: python generate_mailing_list.py
